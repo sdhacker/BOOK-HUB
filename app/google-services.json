@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "12160231463",
+    "firebase_url": "https://book-hub-007.firebaseio.com",
+    "project_id": "book-hub-007",
+    "storage_bucket": "book-hub-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12160231463:android:d49757b88faf41e6",
+        "android_client_info": {
+          "package_name": "com.gmonetix.bookspivot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12160231463-8jejflma82n1uiasis5benpcitsjjqjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbJa5AMOiAuJhD1wGFFkfXamGOPflP0RY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
