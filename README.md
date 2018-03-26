@@ -1,7 +1,7 @@
 # BOOK-HUB
 --- A book sharing (PDF/EBOOK) platform ---
 
-The project contains both
+The project contain
 
     Android Application
     
