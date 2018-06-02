@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:12160231463:android:d49757b88faf41e6",
         "android_client_info": {
-          "package_name": "com.gmonetix.bookspivot"
+          "package_name": "xyz"
         }
       },
       "oauth_client": [
@@ -21,7 +21,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAbJa5AMOiAuJhD1wGFFkfXamGOPflP0RY"
+          "current_key": "xyz"
         }
       ],
       "services": {
